@@ -1,0 +1,7 @@
+C:\Users\Natasha\source\repos\Exzam\Exzam\bin\Debug\Exzam.exe.config
+C:\Users\Natasha\source\repos\Exzam\Exzam\bin\Debug\Exzam.exe
+C:\Users\Natasha\source\repos\Exzam\Exzam\bin\Debug\Exzam.pdb
+C:\Users\Natasha\source\repos\Exzam\Exzam\obj\Debug\Exzam.csprojAssemblyReference.cache
+C:\Users\Natasha\source\repos\Exzam\Exzam\obj\Debug\Exzam.csproj.CoreCompileInputs.cache
+C:\Users\Natasha\source\repos\Exzam\Exzam\obj\Debug\Exzam.exe
+C:\Users\Natasha\source\repos\Exzam\Exzam\obj\Debug\Exzam.pdb
